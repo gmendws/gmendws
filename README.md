@@ -1,5 +1,5 @@
 
-#  Olá, que bom tê-lo por aqui!
+# Bem vindo - Bienvenido - Welcome 
 
 Sou desenvolvedor de software, atualmente desenvolvendo em Delphi.
 
