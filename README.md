@@ -1,7 +1,7 @@
 
 # Bem vindo - Bienvenido - Welcome 
 
-Sou desenvolvedor de software, atualmente desenvolvendo em Delphi.
+Desenvolvedor de software, atualmente trabalhando com Delphi.
 
 - 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas - UTFPR
 - 🎮 Amante de jogos eletrônicos
