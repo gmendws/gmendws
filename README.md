@@ -1,5 +1,3 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-
 # Bem vindo - Bienvenido - Welcome 
 
 Desenvolvedor de software, atualmente trabalhando com Delphi.
@@ -22,6 +20,6 @@ Desenvolvedor de software, atualmente trabalhando com Delphi.
 ---
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendws&show_icons=true&theme=dracula&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=gmendws&show_icons=true&show_icons=true&theme=dracula&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendws&show_icons=true&theme=dracula&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=gmendws&show_icons=true&show_icons=true&theme=dracula&count_private=true" />
 </div>
