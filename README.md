@@ -2,9 +2,9 @@
 
 Desenvolvedor de software, atualmente trabalhando com Delphi.
 
-- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas - UTFPR
+- 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas - UTFPR
 - 🎮 Amante de jogos eletrônicos
-- 👩‍💻 Estudando pra ser full-stack
+- 👩‍💻 Desenvolvedor Delphi - PHP
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
